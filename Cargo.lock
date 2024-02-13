@@ -1887,6 +1887,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ec7a2a501ed189703dba8b08142f057e887dfc4b2cc4db2d343ac6376ba3e0b9"
 
 [[patch.unused]]
+name = "hikari-boot"
+version = "0.1.0"
+
+[[patch.unused]]
+name = "hikari-components"
+version = "0.1.0"
+
+[[patch.unused]]
 name = "tairitsu-boot"
 version = "0.1.0"
 
@@ -1896,12 +1904,4 @@ version = "0.1.0"
 
 [[patch.unused]]
 name = "tairitsu-vm"
-version = "0.1.0"
-
-[[patch.unused]]
-name = "hikari-boot"
-version = "0.1.0"
-
-[[patch.unused]]
-name = "hikari-components"
 version = "0.1.0"
