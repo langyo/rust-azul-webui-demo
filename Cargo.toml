@@ -1,0 +1,9 @@
+[package]
+name = "rust-azul-webui-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+azul = { git = "https://github.com/fschutt/azul.git", package = "azul", version = "1.0.0-beta1", features = [
+    "link-static",
+] }
